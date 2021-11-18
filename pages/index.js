@@ -4,45 +4,45 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Create Next App</title>
+        <title>3doul plateform</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <h1 className="title">
-          Welcome to <a href="https://nextjs.org">Next.js!</a>
-        </h1>
+        <h3 className="title">
+          Welcome to 3doul plateform menu!
+        </h3>
 
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+        مرحبا يا أحسن عدل في العالم
         </p>
 
         <div className="grid">
-          <a href="https://nextjs.org/docs" className="card">
-            <h3>Documentation &rarr;</h3>
-            <p>Find in-depth information about Next.js features and API.</p>
+          <a href="https://www.youtube.com/watch?v=xvFZjo5PgG0" className="card">
+            <h3>Qty's magic tool &rarr;</h3>
+            <p>Locate your polygon in the map here</p>
           </a>
 
-          <a href="https://nextjs.org/learn" className="card">
-            <h3>Learn &rarr;</h3>
-            <p>Learn about Next.js in an interactive course with quizzes!</p>
-          </a>
-
-          <a
-            href="https://github.com/vercel/next.js/tree/master/examples"
-            className="card"
-          >
-            <h3>Examples &rarr;</h3>
-            <p>Discover and deploy boilerplate example Next.js projects.</p>
+          <a href="https://www.youtube.com/watch?v=xvFZjo5PgG0" className="card">
+            <h3>Contracts tool &rarr;</h3>
+            <p>Generate automatically your contracts</p>
           </a>
 
           <a
-            href="https://vercel.com/import?filter=next.js&utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+            href="https://www.youtube.com/watch?v=xvFZjo5PgG0"
             className="card"
           >
-            <h3>Deploy &rarr;</h3>
+            <h3>Inheritence tool &rarr;</h3>
+            <p>Compute auomatically each heir's part</p>
+          </a>
+
+          <a
+            href="https://www.youtube.com/watch?v=xvFZjo5PgG0"
+            className="card"
+          >
+            <h3>Contact us &rarr;</h3>
             <p>
-              Instantly deploy your Next.js site to a public URL with Vercel.
+              Report any problem to 35000 center
             </p>
           </a>
         </div>
@@ -50,12 +50,11 @@ export default function Home() {
 
       <footer>
         <a
-          href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+          href="https://static.wikia.nocookie.net/disney/images/7/76/Awesome_Again.jpg/revision/latest?cb=20190716192231"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Powered by{' '}
-          <img src="/vercel.svg" alt="Vercel" className="logo" />
+          Powered by the best team ever!
         </a>
       </footer>
 
